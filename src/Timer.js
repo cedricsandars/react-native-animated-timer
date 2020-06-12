@@ -1,4 +1,5 @@
 import React from "react";
+import {Platform} from "react-native";
 import AnimatedTimer from "./Components/AnimatedTimer";
 import AnimatedTimerDraggable from "./Components/AnimatedTimerDraggable";
 
